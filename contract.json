@@ -1,0 +1,7 @@
+{
+  "host_port": 18084,
+  "image": "incident-diagnostics:1.0.0",
+  "namespace": "incident-diagnostics",
+  "app_port": 8080,
+  "hostname": "notes.test"
+}
